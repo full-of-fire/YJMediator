@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YJMediator'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of YJMediator.'
+  s.version          = '1.0.0'
+  s.summary          = '一个简单target-action模式的中间组件.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,11 +17,9 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = '一个简单target-action模式的中间组件,非常容易上手'
 
-  s.homepage         = 'https://github.com/full-of-fire/YJMediator'
+  s.homepage         = 'https://github.com/full-of-fire/YJMediator.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'full-of-fire' => '591730822@qq.com' }

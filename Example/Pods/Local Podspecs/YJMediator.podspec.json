@@ -1,0 +1,22 @@
+{
+  "name": "YJMediator",
+  "version": "0.1.0",
+  "summary": "A short description of YJMediator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/full-of-fire/YJMediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "full-of-fire": "591730822@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/full-of-fire/YJMediator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YJMediator/Classes/**/*"
+}
